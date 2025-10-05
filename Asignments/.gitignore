@@ -1,0 +1,10 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore IDE settings (VSCode)
+.vscode/
+
+# Ignore system files (Windows)
+.DS_Store
+Thumbs.db
