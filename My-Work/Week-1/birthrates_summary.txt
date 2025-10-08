@@ -1,0 +1,9 @@
+rows_original: 35
+rows_plotted: 35
+year_start: 2023
+year_end: 2057
+value_min: 51897.0
+value_max: 57537.0
+value_column: VALUE
+year_column: Year
+source_file: C:\Users\CAD-PC\Desktop\GitHub - Cloned Repository\PFDA\My-Work\Week-1\projectedbirths-cso.csv
