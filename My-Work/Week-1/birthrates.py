@@ -1,5 +1,6 @@
 # Program that imports a csv file with the CSO dataset for projected birth rates in Ireland
 # The program prints out a line plot showing how birth rates are expected to change over time
+# Author: P-Sav
 
 
 import pandas as pd
