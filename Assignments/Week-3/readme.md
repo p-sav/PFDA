@@ -13,7 +13,8 @@ and display the results as a **pie chart**
 
 #### 3. Program Code :floppy_disk:
 
-'import pandas as pd  # handle CSV data
+````python
+import pandas as pd  # handle CSV data
 import matplotlib.pyplot as plt # create plots
 
 # --- Load the CSV file ---
@@ -38,8 +39,7 @@ plt.figure(figsize=(6, 6)) # set chart size
 plt.pie(domain_counts, labels=domain_counts.index, autopct='%1.1f%%', startangle=140)  # create pie chart
 plt.title("Email Domain Distribution") # add title
 plt.show() # display chart
-'
-
+```
 
 #### 4. Program Output :computer:
 
@@ -48,6 +48,6 @@ plt.show() # display chart
 
 #### 5. Summary
 
-The project can can be found here: **github** <>
+The project can can be found here: **github** <https://github.com/p-sav/PFDA/tree/main/Assignments/Week-3>
 
 
