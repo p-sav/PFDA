@@ -13,7 +13,8 @@ It then prints out the name and date of each holiday in a simple, readable forma
 
 #### 3. Program Code :floppy_disk:
 
-'import requests                                     # fetch data from the web
+```python
+import requests                                     # fetch data from the web
 
 # URL for UK Government bank holidays API
 url = "https://www.gov.uk/bank-holidays.json"       # public data source
@@ -28,7 +29,7 @@ ni_holidays = data["northern-ireland"]["events"]    # access Northern Ireland li
 print("\nBank Holidays in Northern Ireland:\n")     # header text
 for event in ni_holidays:                           # loop through each holiday
     print(f"{event['title']}: {event['date']}")     # print name and date'
-
+```
 
 #### 4. Program Output :computer:
 
