@@ -1,10 +1,54 @@
-# Ignore Python bytecode files
+# -----------------------------
+# Python cache and compiled files
+# -----------------------------
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+*.pyd
 
-# Ignore IDE settings (VSCode)
+# -----------------------------
+# Virtual environments
+# -----------------------------
+venv/
+.env/
+env/
+.venv/
+
+# -----------------------------
+# Jupyter Notebook checkpoints
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# VS Code settings
+# -----------------------------
 .vscode/
 
-# Ignore system files (Windows)
+# -----------------------------
+# System files (Windows / macOS)
+# -----------------------------
 .DS_Store
 Thumbs.db
+desktop.ini
+
+# -----------------------------
+# Logs and temporary files
+# -----------------------------
+*.log
+*.tmp
+# -----------------------------
+# Data files (optional – untrack large or generated data)
+# -----------------------------
+#*.csv
+#*.xlsx
+#*.xls
+#*.ods
+#*.sqlite
+#*.db
+
+# -----------------------------
+# Exported reports
+# -----------------------------
+#*.pdf
+#*.html
+#birthrates_summary.txt
