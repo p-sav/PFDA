@@ -13,7 +13,7 @@ and display the results as a **pie chart**
 
 #### 3. Program Code :floppy_disk:
 
-````python
+```python
 import pandas as pd  # handle CSV data
 import matplotlib.pyplot as plt # create plots
 
