@@ -43,11 +43,11 @@ plt.show()'
 
 #### 4. Program Output :computer:
 
-![Image showing the output of the program](C:\Users\CAD-PC\Desktop\GitHub - Cloned Repository\PFDA\My-Work\Week-1)
+![Image showing the output of the program](/My-Work/Week-1/Figure_1.png)
 
 
 #### 5. Summary
 
-The project can can be found here: **github** <My-Work/Week-1>
+The project can can be found here: **github** <https://github.com/p-sav/PFDA/tree/main/My-Work/Week-1>
 
 
