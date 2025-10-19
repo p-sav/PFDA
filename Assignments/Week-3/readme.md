@@ -51,3 +51,10 @@ plt.show() # display chart
 The project can can be found here: **github** <https://github.com/p-sav/PFDA/tree/main/Assignments/Week-3>
 
 
+#### 6. References
+
+1. OpenAI. (2025). *ChatGPT*, accessed October 2025, available at: https://chat.openai.com/
+2. [Pandas](https://pandas.pydata.org/)
+5. [Matplotlib](https://matplotlib.org/)
+4. [Juypter Notebook](https://jupyter.org/)
+5. [W3Schools](https://www.w3schools.com/python/)
