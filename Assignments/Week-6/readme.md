@@ -1,8 +1,8 @@
 #### 1.  Program
 
-This notebook analyzes hourly weather data from Dublin Airport using real data from Met Éireann. It cleans and processes the dataset to explore temperature and windspeed trends over time. It produces visualizations showing Hourly, daily mean, and monthly mean temperatures, Hourly windspeed, rolling 24-hour averages, daily maximums, and monthly mean of daily maximums
+This notebook analyzes hourly weather data from Knock Airport using real data from Met Éireann. It cleans and processes the dataset to explore temperature and windspeed trends over time. It produces visualizations showing Hourly, daily mean, and monthly mean temperatures, Hourly windspeed, rolling 24 hour averages, daily maximums, and monthly mean of daily maximums
 
-The analysis demonstrates how to clean, group, and visualize real-world time-series data using Pandas and Matplotlib
+The analysis demonstrates how to clean, group, and visualize real world time-series data using Pandas and Matplotlib
 
 
 
@@ -22,12 +22,12 @@ The analysis demonstrates how to clean, group, and visualize real-world time-ser
 
 #### 4. Program Output :computer:
 
-![Image showing the output of the program](/Assignments/Week-5/?)
+![Image showing the output of the program](/Assignments/Week-6/weather.png)
 
 
 #### 5. Summary
 
-The project can can be found here: **github** < >
+The project can can be found here: **github** <>
 
 
 #### 6. References
