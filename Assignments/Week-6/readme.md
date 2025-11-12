@@ -9,7 +9,6 @@ The analysis demonstrates how to clean, group, and visualize real world time-ser
 #### 2. What was learned :cd:
     - How to load and clean real-world CSV data directly from a URL
     - How to resample and group data by day and month
-    - How to use rolling averages for smoothing noisy time-series data
     - How to visualize patterns using Matplotlib
 
 
