@@ -1,6 +1,18 @@
-#### Home Energy Analytics – Tariff, Export & Battery Optimisation
+#### Home Energy Analytics - Micro Renewable Energy System  
+#### Generation, Tariffs, Export & Battery Optimisation
 
-A data analytics project that uses **30 minute smart meter data** to analyse residential electricity usage, compare tariff structures, and evaluate whether exporting to the grid or storing energy in a home battery is the better financial strategy.
+This is a data analytics project that uses **30 minute smart meter data** to analyse residential grid electricity usage, compare different tariff structures, and evaluate the best operational strategy when using a **Micro Renewable Energy System**.
+
+The project specifically investigates whether it is **more financially beneficial to export surplus energy to the grid** or **store it in a home battery for later use**, taking into account:
+
+- Time-of-use electricity tariffs  
+- Night-rate EV charging  
+- Export feed-in tariffs  
+- Household occupancy patterns  
+- Battery charging and discharging strategies  
+
+The aim is to determine the **most cost-effective energy management strategy** for modern homes with solar PV, EV charging, and smart metering.
+
 
 ---
 
