@@ -5,9 +5,9 @@ This is a data analytics project that uses **30 minute smart meter data** to ana
 
 The project specifically investigates whether it is **more financially beneficial to export surplus energy to the grid** or **store it in a home battery for later use**, taking into account:
 
-- Time-of-use electricity tariffs  
-- Night-rate EV charging  
-- Export feed-in tariffs  
+- Time of use electricity tariffs  
+- Night rate EV charging  
+- Export feed in tariffs  
 - Household occupancy patterns  
 - Battery charging and discharging strategies  
 
