@@ -1,6 +1,6 @@
 #### Home Energy Analytics – Tariff, Export & Battery Optimisation
 
-A data analytics project that uses **30-minute smart meter data** to analyse residential electricity usage, compare tariff structures, and evaluate whether exporting to the grid or storing energy in a home battery is the better financial strategy.
+A data analytics project that uses **30 minute smart meter data** to analyse residential electricity usage, compare tariff structures, and evaluate whether exporting to the grid or storing energy in a home battery is the better financial strategy.
 
 ---
 
@@ -44,7 +44,7 @@ The project is designed as a **practical energy economics case study** for moder
 
 #### Case Studies
 
-##### Case Study 1 — All Day Occupancy
+##### Case Study 1 - All Day Occupancy
 - High consumption throughout the day
 - Most solar generation is instantly self consumed
 - Limited surplus export
@@ -56,7 +56,7 @@ Used to study:
 
 ---
 
-#### Case Study 2 — Away working 9am to 5pm (EV Household)
+#### Case Study 2 - Away working 9am to 5pm (EV Household)
 - Low daytime usage
 - High evening peak (5:30pm–7:30pm)
 - High night usage for EV charging
@@ -114,7 +114,7 @@ This project evaluates:
 
 The analysis determines:
 - Battery payback period
-- Long-term savings
+- Long term savings
 - Whether grid export is financially superior to battery ownership
 
 ---
