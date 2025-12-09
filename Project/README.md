@@ -1,5 +1,6 @@
-#### Home Energy Analytics - Micro Renewable Energy System  
-#### Generation, Tariffs, Export & Battery Optimisation
+# Home Energy Analytics - Micro Renewable Energy System  
+
+## Generation, Tariffs, Export & Battery Optimisation
 
 This is a data analytics project that uses **30 minute smart meter data** to analyse residential grid electricity usage, compare different tariff structures, and evaluate the best operational strategy when using a **Micro Renewable Energy System**.
 
@@ -13,10 +14,12 @@ The project specifically investigates whether it is **more financially beneficia
 
 The aim is to determine the **most cost effective energy management strategy** for modern homes with solar PV, EV charging, and smart metering.
 
+- Household occupancy patterns  
+- Battery charging and discharging strategies
 
 ---
 
-#### Project Overview
+### Project Overview
 
 This project analyses real household electricity consumption data to:
 
@@ -26,6 +29,7 @@ This project analyses real household electricity consumption data to:
 - Understand how **occupancy patterns affect energy costs**
 
 The project is designed as a **practical energy economics case study** for modern homes with:
+
 - Smart meters  
 - Solar PV  
 - EV charging  
@@ -33,7 +37,7 @@ The project is designed as a **practical energy economics case study** for moder
 
 ---
 
-#### Objectives
+### Objectives
 
 - Analyse 30 minute interval electricity data over a full year
 - Compare:
@@ -54,36 +58,41 @@ The project is designed as a **practical energy economics case study** for moder
 
 ---
 
-#### Case Studies
+### Case Studies
 
-##### Case Study 1 - All Day Occupancy
+#### Case Study 1 - All Day Occupancy
+
 - High consumption throughout the day
 - Most solar generation is instantly self consumed
 - Limited surplus export
 - Battery value may be reduced
 
 Used to study:
+
 - Direct self-consumption efficiency
 - Battery value when daytime usage is already high
 
 ---
 
-#### Case Study 2 - Away working 9am to 5pm (EV Household)
+### Case Study 2 - Away working 9am to 5pm (EV Household)
+
 - Low daytime usage
 - High evening peak (5:30pm–7:30pm)
 - High night usage for EV charging
 - Solar generation occurs when the house is empty
 
 Used to study:
+
 - Export vs battery storage
 - Night Boost EV charging optimisation
 - Load shifting strategies
 
 ---
 
-#### Data Structure
+### Data Structure
 
 Each dataset contains:
+
 - One full year of data  
 - 48 × 30 minute data intervals per day  
 - Columns:
@@ -93,7 +102,7 @@ Each dataset contains:
 
 ---
 
-#### Tariffs Analysed
+### Tariffs Analysed
 
 - Day / Night / Peak
 - 24-Hour Flat Rate
@@ -103,13 +112,14 @@ Each dataset contains:
 - Annual Standing Charges
 
 Each tariff is evaluated using:
+
 - Import cost
 - Export revenue
 - Net annual electricity cost
 
 ---
 
-#### Battery vs Grid Analysis
+### Battery vs Grid Analysis
 
 This project evaluates:
 
@@ -125,13 +135,14 @@ This project evaluates:
   - Exporting energy and re importing later
 
 The analysis determines:
+
 - Battery payback period
 - Long term savings
 - Whether grid export is financially superior to battery ownership
 
 ---
 
-#### Key Questions Answered
+### Key Questions Answered
 
 - Is it cheaper to **store energy or sell it to the grid?**
 - Do batteries make financial sense **without grants or subsidies?**
