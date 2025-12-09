@@ -49,8 +49,8 @@ The project is designed as a **practical energy economics case study** for moder
   - Export revenue
   - Net annual spend
 - Compare:
-  - **Battery storage vs grid export**
-  - **Physical battery vs grid as a “virtual battery”**
+  - Battery storage vs grid export
+  - Physical battery vs grid as a “virtual battery"
 - Determine:
   - Battery payback period
   - ROI (Return on Investment)
