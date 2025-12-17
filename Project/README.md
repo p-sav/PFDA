@@ -21,7 +21,7 @@ The aim is to determine the **most cost effective energy management strategy** f
 
 ### Project Overview
 
-This project analyses real household electricity consumption data to:
+This project analyses real and synthetic household electricity consumption data to:
 
 - Compare **electricity tariff plans**
 - Evaluate **export vs self-consumption**
@@ -62,6 +62,8 @@ The project is designed as a **practical energy economics case study** for moder
 
 #### Case Study 1 - All Day Occupancy
 
+Case Study 1 uses real household electricity consumption data from a home that is occupied all day. The household has a solar PV system installed on the roof, generating electricity during daylight hours. This scenario represents a high daytime demand profile, where most solar generation is self-consumed, resulting in limited surplus energy for export to the grid.
+
 - High consumption throughout the day
 - Most solar generation is instantly self consumed
 - Limited surplus export
@@ -75,6 +77,8 @@ Used to study:
 ---
 
 ### Case Study 2 - Away working 9am to 5pm (EV Household)
+
+Case Study 2 is synthetic. It assumes the same premises and the same solar PV system as Case Study 1, but the household is unoccupied from 9am to 5pm and includes EV charging at night. This creates a realistic scenario with low daytime demand and higher solar surplus, allowing export to grid and battery storage strategies to be compared under identical PV conditions.
 
 - Low daytime usage
 - High evening peak (5:30pm–7:30pm)
